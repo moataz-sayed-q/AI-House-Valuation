@@ -1,0 +1,14 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & Preprocessing
+scikit-learn
+xgboost
+
+# Deep Learning & GPU Management
+torch
+
+# Visualization
+matplotlib
+seaborn

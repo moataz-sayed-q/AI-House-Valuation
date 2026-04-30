@@ -1,0 +1,2 @@
+you can install everything in one go with this command:
+pip install -r requirements.txt
