@@ -51,7 +51,7 @@ To ensure **Production Readiness**, the pipeline was engineered with a **Hardwar
 | **Mean Absolute Error (MAE)** | $1.75k | Average price deviation from truth. |
 
 ### Hardware Analytics
-> **[View GPU Utilization Screenshot](placeholder_to_gpu_image)**  
+> **[View GPU Utilization Screenshot](images/gpu_acceleration_monitoring.png)**  
 > *Note: Monitoring the NVIDIA RTX 5060 Ti during high-estimator training cycles.*
 
 ---
